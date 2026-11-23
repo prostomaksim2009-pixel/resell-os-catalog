@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T09:46:02Z",
+  "updatedAt": "2026-11-23T05:26:25Z",
   "exchangeRate": {
     "source": "ЦБ РФ",
     "date": "2026-11-21",
@@ -16,7 +16,7 @@
       "brand": "Prada",
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
-      "lastSeenAt": "2026-11-22T09:46:02Z",
+      "lastSeenAt": "2026-11-23T05:26:25Z",
       "priceRub": 1203.04
     },
     {
@@ -28,7 +28,7 @@
       "brand": "Prada",
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
-      "lastSeenAt": "2026-11-22T09:46:02Z",
+      "lastSeenAt": "2026-11-23T05:26:25Z",
       "priceRub": 552.42
     }
   ]
