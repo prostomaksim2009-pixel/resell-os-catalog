@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T05:15:18Z",
+  "updatedAt": "2026-11-25T05:18:15Z",
   "exchangeRate": {
     "source": "ЦБ РФ",
-    "date": "2026-11-24",
-    "rubPerCny": 12.2615
+    "date": "2026-11-25",
+    "rubPerCny": 12.2767
   },
   "listings": [
     {
@@ -17,7 +17,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 1201.63
+      "priceRub": 1203.12
     },
     {
       "id": "goofish:1100580353181",
@@ -29,7 +29,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 551.77
+      "priceRub": 552.45
     }
   ]
 }
