@@ -1,12 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T05:18:15Z",
+  "updatedAt": "2026-11-26T05:18:12Z",
   "exchangeRate": {
     "source": "ЦБ РФ",
-    "date": "2026-11-25",
-    "rubPerCny": 12.2767
+    "date": "2026-11-26",
+    "rubPerCny": 12.3154
   },
   "listings": [
+    {
+      "id": "goofish:666778361133",
+      "title": "Vivienne Westwood西太后土星自制帆布包单肩包 材质：帆布 尺寸：45*31*26.5cm  因手工制作，走线不一定完美，追求完美者勿拍！  单面图案 内里有内袋  5—7天发货  定制品不退不换，请看好再下单！  本交易仅支持邮寄",
+      "priceCny": 60.0,
+      "sourceUrl": "https://www.goofish.com/item?id=666778361133",
+      "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/O1CN01kLfSd41pYsnMVoCIq_!!0-fleamarket.jpg",
+      "brand": "Vivienne Westwood",
+      "category": "Сумки",
+      "firstSeenAt": "2026-11-26T05:18:12Z",
+      "lastSeenAt": "2026-11-26T05:18:12Z",
+      "selection": "main",
+      "model": "Orb",
+      "priceRub": 738.92
+    },
+    {
+      "id": "goofish:1073020414096",
+      "title": "血液供给手提包斜挎包 哥特风十字架大包 感兴趣的话点“我想要”和我私聊吧～二手默认瑕疵no退换（以下词条仅蹭热度借借  gunne sax  laura ashley  pink house  .劳拉 杰西卡 gzvintage 轻松桃子 廊桥遗梦 杨二眠饮衫 久稚梨啤 古着复古 智薰 恣肆 银河万岁 如故  循环 呼啸  orclothing 西红柿姐姐 三日一市 花莲有云 Toffee复古 粒粒vintage 小白vintage 野厘 vintage 蔷薇刺客 莫奈的莲",
+      "priceCny": 97.0,
+      "sourceUrl": "https://www.goofish.com/item?id=1073020414096",
+      "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/3433802699/O1CN01jAraStjLsJB1fyuW_!!4611686018427382731-0-xy_item.jpg",
+      "brand": "Vivienne Westwood",
+      "category": "Сумки",
+      "firstSeenAt": "2026-11-26T05:18:12Z",
+      "lastSeenAt": "2026-11-26T05:18:12Z",
+      "selection": "main",
+      "model": "японский винтаж",
+      "priceRub": 1194.59
+    },
     {
       "id": "goofish:1100732609399",
       "title": "降落伞包中古托特大包，男女可背！焦糖棕拼色真的绝，秋冬背超级 有氛围感。  尼龙绗缝泡芙身配棕色牛皮提手和包边，经典降落伞包造型。 尺寸约长33高26.5宽9cm，容量很能装，A4文件、水杯、化妆包都放得下，通勤逛街都很实用。  顶部双提手，另有可拆卸长肩带，手提、单肩、斜挎都行。拉链开合，五金亮，拉...",
@@ -17,7 +45,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 1203.12
+      "priceRub": 1206.91
     },
     {
       "id": "goofish:1100580353181",
@@ -29,7 +57,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 552.45
+      "priceRub": 554.19
     }
   ]
 }
