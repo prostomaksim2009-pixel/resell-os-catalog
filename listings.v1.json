@@ -1,12 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T05:18:12Z",
+  "updatedAt": "2026-11-27T05:18:35Z",
   "exchangeRate": {
     "source": "ЦБ РФ",
-    "date": "2026-11-26",
-    "rubPerCny": 12.3154
+    "date": "2026-11-27",
+    "rubPerCny": 12.3184
   },
   "listings": [
+    {
+      "id": "goofish:1103247544732",
+      "title": "Dior老花马鞍包，小号，牛仔蓝刺绣帆布，金色CD五金，单肩 斜挎都可以烫金还很清楚，五金有轻微划痕，整体保存很好，家里包包太多闲置出，喜欢直接拍，细节私聊～ 不退不换，一个很真的jia bao",
+      "priceCny": 88.0,
+      "sourceUrl": "https://www.goofish.com/item?id=1103247544732",
+      "imageUrl": "https://img.alicdn.com/bao/uploaded/i3/O1CN012HjnwvV3WfE2BxV2~livephoto~_!!4611686018427385517-0-fleamarket.jpg",
+      "brand": "Dior",
+      "category": "Сумки",
+      "firstSeenAt": "2026-11-27T05:18:35Z",
+      "lastSeenAt": "2026-11-27T05:18:35Z",
+      "selection": "main",
+      "model": "Trotter",
+      "priceRub": 1084.02
+    },
+    {
+      "id": "goofish:1100919237507",
+      "title": "Dior迪奥Oblique老花丝绒马鞍包，中号蓝色，经典马鞍 包型，两个肩带，做工很重工，质感高级，日常百搭，送礼也很有面子～  成色几乎全新，只拍照背过一次，保存很好，五金亮，内里干净，细节都在图里啦  支持包邮，同城可自提，价格可聊～喜欢的小姐姐可以私聊看细节图，喜欢直接拍也行～",
+      "priceCny": 172.0,
+      "sourceUrl": "https://www.goofish.com/item?id=1100919237507",
+      "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/2221030456289/O1CN01yTBVVvHQpxF2BxNI_!!4611686018427386849-0-xy_item.jpg",
+      "brand": "Dior",
+      "category": "Сумки",
+      "firstSeenAt": "2026-11-27T05:18:35Z",
+      "lastSeenAt": "2026-11-27T05:18:35Z",
+      "selection": "archive",
+      "model": "Trotter",
+      "priceRub": 2118.76
+    },
     {
       "id": "goofish:666778361133",
       "title": "Vivienne Westwood西太后土星自制帆布包单肩包 材质：帆布 尺寸：45*31*26.5cm  因手工制作，走线不一定完美，追求完美者勿拍！  单面图案 内里有内袋  5—7天发货  定制品不退不换，请看好再下单！  本交易仅支持邮寄",
@@ -19,7 +47,7 @@
       "lastSeenAt": "2026-11-26T05:18:12Z",
       "selection": "main",
       "model": "Orb",
-      "priceRub": 738.92
+      "priceRub": 739.1
     },
     {
       "id": "goofish:1073020414096",
@@ -33,7 +61,7 @@
       "lastSeenAt": "2026-11-26T05:18:12Z",
       "selection": "main",
       "model": "японский винтаж",
-      "priceRub": 1194.59
+      "priceRub": 1194.88
     },
     {
       "id": "goofish:1100732609399",
@@ -45,7 +73,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 1206.91
+      "priceRub": 1207.2
     },
     {
       "id": "goofish:1100580353181",
@@ -57,7 +85,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 554.19
+      "priceRub": 554.33
     }
   ]
 }
