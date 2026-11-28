@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T05:18:35Z",
+  "updatedAt": "2026-11-28T05:07:50Z",
   "exchangeRate": {
     "source": "ЦБ РФ",
-    "date": "2026-11-27",
-    "rubPerCny": 12.3184
+    "date": "2026-11-28",
+    "rubPerCny": 12.327
   },
   "listings": [
     {
@@ -19,7 +19,7 @@
       "lastSeenAt": "2026-11-27T05:18:35Z",
       "selection": "main",
       "model": "Trotter",
-      "priceRub": 1084.02
+      "priceRub": 1084.78
     },
     {
       "id": "goofish:1100919237507",
@@ -33,7 +33,7 @@
       "lastSeenAt": "2026-11-27T05:18:35Z",
       "selection": "archive",
       "model": "Trotter",
-      "priceRub": 2118.76
+      "priceRub": 2120.24
     },
     {
       "id": "goofish:666778361133",
@@ -47,7 +47,7 @@
       "lastSeenAt": "2026-11-26T05:18:12Z",
       "selection": "main",
       "model": "Orb",
-      "priceRub": 739.1
+      "priceRub": 739.62
     },
     {
       "id": "goofish:1073020414096",
@@ -61,7 +61,7 @@
       "lastSeenAt": "2026-11-26T05:18:12Z",
       "selection": "main",
       "model": "японский винтаж",
-      "priceRub": 1194.88
+      "priceRub": 1195.72
     },
     {
       "id": "goofish:1100732609399",
@@ -73,7 +73,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 1207.2
+      "priceRub": 1208.05
     },
     {
       "id": "goofish:1100580353181",
@@ -85,7 +85,7 @@
       "category": "Сумки",
       "firstSeenAt": "2026-11-22T09:46:02Z",
       "lastSeenAt": "2026-11-23T05:26:25Z",
-      "priceRub": 554.33
+      "priceRub": 554.72
     }
   ]
 }
